@@ -1,3 +1,6 @@
+AI 수의사를 활용한 반려동물 커뮤니티 프로젝트에 포함된 홍보용 웹사이트입니다.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
